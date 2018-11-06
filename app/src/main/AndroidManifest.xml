@@ -17,7 +17,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".signup" />
-        <activity android:name=".Configurations"></activity>
+        <activity android:name=".Configurations" />
+        <activity android:name=".AddGidget" />
+        <activity android:name=".addGidgetToRoom" />
+        <activity android:name=".RoomsMainDisplay"></activity>
     </application>
 
 </manifest>
